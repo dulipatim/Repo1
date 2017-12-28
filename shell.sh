@@ -16,3 +16,6 @@ else
 	echo "Sorry you are not eligible to drive yet: you have to wait $diff more years to drive"
 
 fi
+
+echo "I made a few chaNGES TO THE SCRIPT"
+
